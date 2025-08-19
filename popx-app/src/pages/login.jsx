@@ -10,7 +10,7 @@ export default function Login() {
 
   return (
     <div className="flex items-center justify-center h-screen bg-white">
-      <div className="w-full max-w-[22%] bg-gray-50 h-full sm:shadow-md flex flex-col justify font-inter">
+      <div className="w-full max-w-85 bg-gray-50 h-full sm:shadow-md flex flex-col justify font-inter">
         
         <div className="mb-6 px-4 w-full mt-8">
           <h1 className="text-[26px] font-bold text-gray-900 text-left leading-tight max-w-3/4">
